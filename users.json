@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Luis",
+        "email": "mail@mail.com",
+        "address": "ktm",
+        "password": "$2b$10$6bn3RbEjN/SV3cXlL7DUSOPfTR5Ro7LjfrMNYrPlkJyRtgqns/p36"
+    },
+    {
+        "name": "rajesh",
+        "email": "test123@mail.com",
+        "address": "brt",
+        "password": "$2b$10$ZQseZc6YaTXCyoCcW1U1mO06IIKq5uCHL.DDOfUIgsU4vxIp3xvzm"
+    }
+]
